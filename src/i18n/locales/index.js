@@ -1,4 +1,4 @@
 import fr from "./fr.json";
-import en from "./en-us.json";
+import en from "./en.json";
 
 export default { fr, en };
