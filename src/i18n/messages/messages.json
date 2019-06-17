@@ -1,0 +1,17 @@
+[
+  {
+    "id": "app.link",
+    "defaultMessage": "Learn React",
+    "filepath": "src/App.js"
+  },
+  {
+    "id": "app.content1",
+    "defaultMessage": "Edit",
+    "filepath": "src/App.js"
+  },
+  {
+    "id": "app.content2",
+    "defaultMessage": "and save to reload.",
+    "filepath": "src/App.js"
+  }
+]
